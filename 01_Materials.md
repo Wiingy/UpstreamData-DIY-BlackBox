@@ -3,6 +3,9 @@ The first step is to gather the materials you want. These are the materials show
 
 Everything used for materials on this project was purchased from Home Depot for just under $150.00 USD at the time of writing, January 2022. There are a variety of materials to use for lining the inside of the enclosure. You do not need to use the materials listed here. The reasoning for these specific materials will be discussed below but feel free to experiment and find what works best for you. 
 
+- 1 x 2400 x 1200mm 17mm Formply F14 $95.70 [example](https://www.bunnings.com.au/2400-x-1200mm-17mm-formply-f14_p0390072)
+- 2 x VyBar® 848F = 1200x1200x20mm $632[example](https://soundproofwarehouse.com.au/product/vybarr-marine-soundproofing/)
+
 - 1 X OSB sheet, 7/16" x 48" x 96" [example](https://www.homedepot.com/p/LP-OSB-7-16-in-Sheathing-Panel-Application-as-4-ft-x-8-ft-386081/202106230)
 - 1 X asphalt sheet, 1/2" x 48" x 96" [example](https://www.homedepot.com/p/1-2-in-x-4-ft-x-8-ft-Southern-Pine-Asphalt-Impregnated-Board-A11230848096/206086210)
 - 3 X Dense Shield title backer, 1/2" x 32" x 60" [example](https://www.homedepot.com/p/DensShield-Gypsum-Backer-Board-1-2-in-x-2-7-ft-x-5-ft-Tile-Backer-008590/100322694)
