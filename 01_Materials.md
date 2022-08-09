@@ -6,9 +6,8 @@ Everything used for materials on this project was purchased from Home Depot for 
 - 1 x 2400 x 1200mm 17mm Formply F14 $95.70 [example](https://www.bunnings.com.au/2400-x-1200mm-17mm-formply-f14_p0390072)
 - 2 x VyBar® 848F = 1200x1200x20mm $632[example](https://soundproofwarehouse.com.au/product/vybarr-marine-soundproofing/)
 
-- 1 X OSB sheet, 7/16" x 48" x 96" [example](https://www.homedepot.com/p/LP-OSB-7-16-in-Sheathing-Panel-Application-as-4-ft-x-8-ft-386081/202106230)
-- 1 X asphalt sheet, 1/2" x 48" x 96" [example](https://www.homedepot.com/p/1-2-in-x-4-ft-x-8-ft-Southern-Pine-Asphalt-Impregnated-Board-A11230848096/206086210)
-- 3 X Dense Shield title backer, 1/2" x 32" x 60" [example](https://www.homedepot.com/p/DensShield-Gypsum-Backer-Board-1-2-in-x-2-7-ft-x-5-ft-Tile-Backer-008590/100322694)
+- n x Carinya 40 x 40 x 600 x 1mm Make-A-Bracket - single [example](https://www.bunnings.com.au/carinya-40-x-40-x-600-x-1mm-make-a-bracket-single_p3975793)
+
 - 2 X Lumber, 2" x 3" x 96" [example](https://www.homedepot.com/p/2-in-x-3-in-x-96-in-Select-Kiln-Dried-Whitewood-Stud-845000/100038668)
 - 2 X Liquid Nails adhesive [example](https://www.homedepot.com/p/Liquid-Nails-10-oz-Heavy-Duty-Construction-Adhesive-LN-903/100176209)
 - 1 X Roll of foil duct tape [example](https://www.homedepot.com/p/Nashua-Tape-2-5-in-x-60-yd-324A-Premium-Foil-HVAC-UL-Listed-Duct-Tape-1542698/100048600)
