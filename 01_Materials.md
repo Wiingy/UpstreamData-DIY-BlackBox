@@ -3,8 +3,8 @@ The first step is to gather the materials you want. These are the materials show
 
 Everything used for materials on this project was purchased from Home Depot for just under $150.00 USD at the time of writing, January 2022. There are a variety of materials to use for lining the inside of the enclosure. You do not need to use the materials listed here. The reasoning for these specific materials will be discussed below but feel free to experiment and find what works best for you. 
 
-- 1 x 2400 x 1200mm 17mm Formply F14 $95.70 [example](https://www.bunnings.com.au/2400-x-1200mm-17mm-formply-f14_p0390072)
-- 2 x VyBar® 848F = 1200x1200x20mm $632[example](https://soundproofwarehouse.com.au/product/vybarr-marine-soundproofing/)
+- 1 x 2400*1200mm*17mm Formply F14 $95.70 [example](https://www.bunnings.com.au/2400-x-1200mm-17mm-formply-f14_p0390072)
+- 2 x Fibertex 120cm*60cm*5cm[example](https://soundproofwarehouse.com.au/product/vybarr-marine-soundproofing/)
 
 - n x Carinya 40 x 40 x 600 x 1mm Make-A-Bracket - single [example](https://www.bunnings.com.au/carinya-40-x-40-x-600-x-1mm-make-a-bracket-single_p3975793)
 
