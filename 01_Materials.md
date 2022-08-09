@@ -4,11 +4,11 @@ The first step is to gather the materials you want. These are the materials show
 Everything used for materials on this project was purchased from Home Depot for just under $150.00 USD at the time of writing, January 2022. There are a variety of materials to use for lining the inside of the enclosure. You do not need to use the materials listed here. The reasoning for these specific materials will be discussed below but feel free to experiment and find what works best for you. 
 
 - 1 x 2400 x 1200mm x 17mm Formply F14 $956 [example](https://www.bunnings.com.au/2400-x-1200mm-17mm-formply-f14_p0390072)
-- 5 x Fibertex 120cm x 60cm x 5cm $182 [example](https://soundproofwarehouse.com.au/product/fibertex/)
-
+- 1 x 2400 x 1200 x 6mm Villaboard $35 [example](https://www.bunnings.com.au/james-hardie-2400-x-1200-x-6mm-2-88m-villaboard-lining_p0714174)
+- 1 x Stratocell Whisper 50mm (2400 x 1200) [example](https://soundproofwarehouse.com.au/product/stratocell-whisper/)
+- 1 x 3M Hi-Strength 90 – Spray Adhesive [example](https://www.blackwoods.com.au/adhesives-sealants-fillers/adhesives-sealants/3m-spray-adhesives/adhesive-aero-high-strength-90-471gm/p/04929815)
 - n x Carinya 40 x 40 x 600 x 1mm Make-A-Bracket - single [example](https://www.bunnings.com.au/carinya-40-x-40-x-600-x-1mm-make-a-bracket-single_p3975793)
-
-- 
+- 2 x Zenith 4G x 12mm Brass Countersunk Head Wood Screws - 30 Pack 
 
 - 2 X Lumber, 2" x 3" x 96" [example](https://www.homedepot.com/p/2-in-x-3-in-x-96-in-Select-Kiln-Dried-Whitewood-Stud-845000/100038668)
 - 2 X Liquid Nails adhesive [example](https://www.homedepot.com/p/Liquid-Nails-10-oz-Heavy-Duty-Construction-Adhesive-LN-903/100176209)
