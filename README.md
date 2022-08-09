@@ -1,4 +1,4 @@
-# UpstreamData-DIY-BlackBox
+# UpstreamData-DIY-BlackBox - Australian Edition
 DIY Guide for an indoor BlackBox ASIC enclosure.
 
 ![](assets/TitleImage.png)
