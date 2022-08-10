@@ -3,7 +3,7 @@ The first step is to gather the materials you want. These are the materials show
 
 Everything used for materials on this project was purchased from Home Depot for just under $150.00 USD at the time of writing, January 2022. There are a variety of materials to use for lining the inside of the enclosure. You do not need to use the materials listed here. The reasoning for these specific materials will be discussed below but feel free to experiment and find what works best for you. 
 
-- 1 x 2400 x 1200mm x 17mm Formply F14 $956 [example](https://www.bunnings.com.au/2400-x-1200mm-17mm-formply-f14_p0390072)
+- 1 x 2400 x 1200mm x 17mm Formply F14 $96 [example](https://www.bunnings.com.au/2400-x-1200mm-17mm-formply-f14_p0390072)
 - 1 x 2400 x 1200 x 6mm Villaboard $35 [example](https://www.bunnings.com.au/james-hardie-2400-x-1200-x-6mm-2-88m-villaboard-lining_p0714174)
 - 1 x Stratocell Whisper 50mm (2400 x 1200) $370 [example](https://soundproofwarehouse.com.au/product/stratocell-whisper/)
 - 1 x 3M Hi-Strength 90 – Spray Adhesive [example](https://www.blackwoods.com.au/adhesives-sealants-fillers/adhesives-sealants/3m-spray-adhesives/adhesive-aero-high-strength-90-471gm/p/04929815)
