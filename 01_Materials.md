@@ -14,9 +14,8 @@ Everything used for materials on this project was purchased from Home Depot for 
 
 - 2 x Ducting Tape roll 30m [example](https://www.pureventilation.com.au/buy/ducting-tape-single-roll/)
 - 1 x Fanaire Insulated Flexible Duct – R1.0 3-Zero – 200mm x 6metres $50 [example](https://ventilationsupplies.com.au/product/fanaire-insulated-flexible-duct-r1-0-3-zero-200mm-x-6metres/)
-- 1x Expella EMF Silent Inline Fan 200mm $355 [example](https://www.pureventilation.com.au/buy/expella-emf-silent-inline-fan-200mm/)
-- 1 x Vent Fixed Flyscreen 200mm $25 [example](https://www.pureventilation.com.au/buy/vent-fixed-flyscreen-200mm/)
-- 1 x SPRAYBOOTH, INLET FILTER MEDIA, M5, PER M, 600G, 19MM, 1.25M WIDE $55 [example](https://www.bisonfilters.com.au/p-28005-spraybooth-inlet-filter-media-m5-per-m-600g-19mm-125m-wide.aspx)
+- 3 x ? Duct Adaptor for Multi-Directional Outlet | 230 x 230mm | Suits 200mm Ducting | SKU M604 $60 ? Make up box first and then see what the bottom hole size is and determine the correct way to fix ducting to box (as well as window filter [example](https://ventilation-vents.com.au/M604)
+- 1 x PLEAT PRO FILTER, G4, 521 X 532 X 25MM, 9MM LIP $127 [example](https://www.bisonfilters.com.au/p-28019-pleat-pro-filter-g4-521-x-532-x-25mm-9mm-lip.aspx)
 - 1 x Zenith 8 - 10 x 30mm Galvanised Countersunk Rib Head Timber Screws - 500 Pack $23 [example](https://www.bunnings.com.au/zenith-8-10-x-30mm-galvanised-countersunk-rib-head-timber-screws-500-pack_p2420871)
 
 
@@ -24,5 +23,4 @@ The Fromply was chosen for outside weather resistant, Villaboard chosen as its e
 
 Use the sealant between the formply and villaboard, (used with screws aswell).  Use the 3M 90 Spray Adhesive to stick Stratocell to the Villaboard.  Please be aware of the strict materials that can be used with the Stratocell.
 
-I also included an inline fan which will be used for indoor purposes, to suck air from outside window, hence the Spraybooth inline filter.  In this case formply doesn't need to be used, but I wanted to to allow me to runt he box outdoors if not too loud. (will need extra materials to sound prood the inline fan)
-
+I also included an inline filter and duct to suck fresh air from outside and then push it back outside.  More material will be needed to secure ducting into box
