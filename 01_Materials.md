@@ -20,9 +20,9 @@ Everything used for materials on this project was purchased from Home Depot for 
 - 1 x Zenith 8 - 10 x 30mm Galvanised Countersunk Rib Head Timber Screws - 500 Pack $23 [example](https://www.bunnings.com.au/zenith-8-10-x-30mm-galvanised-countersunk-rib-head-timber-screws-500-pack_p2420871)
 
 
-The Fromply was chosen for outside weather resistant, Villaboard chosen as its easier to glue the sound asorber to villaboard then the Formply, if ytou wnat to only use formply and sound asorber, please use orbital sander to sand down the black layer on the formply.
+The Fromply was chosen for outside weather resistant, Villaboard chosen as its easier to glue the sound asorber to villaboard then the Formply, if you want to only use formply and sound asorber, please use orbital sander to sand down the black layer on the formply.
 
 Use the sealant between the formply and villaboard, (used with screws aswell).  Use the 3M 90 Spray Adhesive to stick Stratocell to the Villaboard.  Please be aware of the strict materials that can be used with the Stratocell.
 
-I also included an inline fan which will be used for indoor purposes, to suck air from outside window, hence the Spraybooth inline filter.  In this case formply doesn't need to be used, but I wanted to to allow me to runt he box outdoors if not too loud.
+I also included an inline fan which will be used for indoor purposes, to suck air from outside window, hence the Spraybooth inline filter.  In this case formply doesn't need to be used, but I wanted to to allow me to runt he box outdoors if not too loud. (will need extra materials to sound prood the inline fan)
 
