@@ -14,7 +14,7 @@ Everything used for materials on this project was purchased from Home Depot for 
 
 - 2 x Ducting Tape roll 30m [example](https://www.pureventilation.com.au/buy/ducting-tape-single-roll/)
 - 1 x Fanaire Insulated Flexible Duct – R1.0 3-Zero – 200mm x 6metres $50 [example](https://ventilationsupplies.com.au/product/fanaire-insulated-flexible-duct-r1-0-3-zero-200mm-x-6metres/)
-- 3 x ? Duct Adaptor for Multi-Directional Outlet | 230 x 230mm | Suits 200mm Ducting | SKU M604 $60 ? Make up box first and then see what the bottom hole size is and determine the correct way to fix ducting to box (as well as window filter [example](https://ventilation-vents.com.au/M604)
+- 4 x ? Duct Adaptor for Multi-Directional Outlet | 230 x 230mm | Suits 200mm Ducting | SKU M604 $60 ? Make up box first and then see what the bottom hole size is and determine the correct way to fix ducting to box (as well as window filter's ; how to affix) [example](https://ventilation-vents.com.au/M604)
 - 1 x PLEAT PRO FILTER, G4, 521 X 532 X 25MM, 9MM LIP $127 [example](https://www.bisonfilters.com.au/p-28019-pleat-pro-filter-g4-521-x-532-x-25mm-9mm-lip.aspx)
 - 1 x Zenith 8 - 10 x 30mm Galvanised Countersunk Rib Head Timber Screws - 500 Pack $23 [example](https://www.bunnings.com.au/zenith-8-10-x-30mm-galvanised-countersunk-rib-head-timber-screws-500-pack_p2420871)
 
