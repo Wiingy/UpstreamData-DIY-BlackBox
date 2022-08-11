@@ -13,14 +13,16 @@ Everything used for materials on this project was purchased from Home Depot for 
 - 2 x Selleys 435g Grey Flame Flex Fire And Acoustic Sealant $42 [example](https://www.bunnings.com.au/selleys-435g-grey-flame-flex-fire-and-acoustic-sealant_p1230156)
 
 - 2 x Ducting Tape roll 30m [example](https://www.pureventilation.com.au/buy/ducting-tape-single-roll/)
-- 1 x Fanaire Insulated Flexible Duct – R1.0 3-Zero – 200mm x 6metres $50 [example](https://ventilationsupplies.com.au/product/fanaire-insulated-flexible-duct-r1-0-3-zero-200mm-x-6metres/)
-- 4 x ? Duct Adaptor for Multi-Directional Outlet | 230 x 230mm | Suits 200mm Ducting | SKU M604 $60 ? Make up box first and then see what the bottom hole size is and determine the correct way to fix ducting to box (as well as window filter's ; how to affix) [example](https://ventilation-vents.com.au/M604)
-- 1 x PLEAT PRO FILTER, G4, 521 X 532 X 25MM, 9MM LIP $127 [example](https://www.bisonfilters.com.au/p-28019-pleat-pro-filter-g4-521-x-532-x-25mm-9mm-lip.aspx)
+- 1 x Acoustic Duct 200mm x 6m Uniflex $75 [example](https://ventilationsupplies.com.au/product/fanaire-insulated-flexible-duct-r1-0-3-zero-200mm-x-6metres/)
+- 4 x wall joiner for 200mm ducting $45 [example](https://www.hydrocentre.com.au/wall-joiner-for-200mm-ducting-metal-starting-colla)
+- 1 x PLEAT PRO FILTER, G4, 385 X 725 X 25MM, 9MM LIP $139 [example](https://www.bisonfilters.com.au/p-28081-pleat-pro-filter-g4-385-x-725-x-25mm-9mm-lip.aspx)
 - 1 x Zenith 8 - 10 x 30mm Galvanised Countersunk Rib Head Timber Screws - 500 Pack $23 [example](https://www.bunnings.com.au/zenith-8-10-x-30mm-galvanised-countersunk-rib-head-timber-screws-500-pack_p2420871)
+- 1 x Move It 75mm PVC Castor - 4 Pack $13 [example](https://www.bunnings.com.au/move-it-75mm-pvc-castor-4-pack_p3940383)
 
+- 1 x 
 
 The Fromply was chosen for outside weather resistant, Villaboard chosen as its easier to glue the sound asorber to villaboard then the Formply, if you want to only use formply and sound asorber, please use orbital sander to sand down the black layer on the formply.
 
 Use the sealant between the formply and villaboard, (used with screws aswell).  Use the 3M 90 Spray Adhesive to stick Stratocell to the Villaboard.  Please be aware of the strict materials that can be used with the Stratocell.
 
-I also included an inline filter and duct to suck fresh air from outside and then push it back outside.  More material will be needed to secure ducting into box
+I also included an inline filter and duct to suck fresh air from outside and then push it back outside.  Mount filter to box attach wall joiner to box, same on both ends.
